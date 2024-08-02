@@ -10,3 +10,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 >>>>>>> f042669 (Your commit message)
+This is todo react app
+>>>>>>> features:-
+>>>>>>> Add remove item from todo list
+>>>>>>> Select/Mark the important todo tasks
+>>>>>>> 
